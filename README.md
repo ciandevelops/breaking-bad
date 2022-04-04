@@ -1,3 +1,12 @@
+# Project Info 
+
+This is a project using React, a Breaking Bad API and Axios. 
+Using a YouTube tutorial from [Traversy Media](https://www.youtube.com/watch?v=YaioUnMw0mo)
+
+# Live Site 
+
+This project is deployed on Vercel, [here.](https://breaking-bad-rust.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
