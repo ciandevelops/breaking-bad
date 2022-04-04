@@ -7,6 +7,8 @@ Using a YouTube tutorial from [Traversy Media](https://www.youtube.com/watch?v=Y
 
 This project is deployed on Vercel, [here.](https://breaking-bad-rust.vercel.app/)
 
+![Screenshot](https://ibb.co/GphhBv8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
