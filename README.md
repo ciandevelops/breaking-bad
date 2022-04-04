@@ -1,6 +1,6 @@
 # Project Info 
 
-This is a project using React, a Breaking Bad API and Axios. 
+This is a project using React, a [Breaking Bad API](https://breakingbadapi.com/documentation) and [Axios](https://axios-http.com/docs/intro). 
 Using a YouTube tutorial from [Traversy Media](https://www.youtube.com/watch?v=YaioUnMw0mo)
 
 # Live Site 
