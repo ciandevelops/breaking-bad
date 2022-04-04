@@ -7,7 +7,11 @@ Using a YouTube tutorial from [Traversy Media](https://www.youtube.com/watch?v=Y
 
 This project is deployed on Vercel, [here.](https://breaking-bad-rust.vercel.app/)
 
-![Screenshot](https://ibb.co/GphhBv8)
+<p align="center">
+  <img src="https://ibb.co/GphhBv8" width="350">
+</p>
+
+
 
 # Getting Started with Create React App
 
