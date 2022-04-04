@@ -8,7 +8,7 @@ Using a YouTube tutorial from [Traversy Media](https://www.youtube.com/watch?v=Y
 This project is deployed on Vercel, [here.](https://breaking-bad-rust.vercel.app/)
 
 <p align="center">
-  <img src="https://ibb.co/GphhBv8" width="350">
+  <img src="https://i.ibb.co/nmWWZsY/Breaking-Bad-Project.png" width="350">
 </p>
 
 
